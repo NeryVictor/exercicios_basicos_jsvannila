@@ -1,0 +1,1 @@
+Exercicio básico de lógica, onde foi utilizando para resolução o js vanilla.
